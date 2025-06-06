@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredients>
+    <dish name="Pizza Napoletana">
+        <item>Brašno</item>
+        <item>Kvasac</item>
+        <item>Maslinovo ulje</item>
+        <item>Rajčica</item>
+        <item>Mozzarella</item>
+        <item>Bosiljak</item>
+        <item>Sol</item>
+    </dish>
+    <dish name="Croissant">
+        <item>Brašno</item>
+        <item>Kvasac</item>
+        <item>Maslac</item>
+        <item>Jaja</item>
+        <item>Sol</item>
+        <item>Mlijeko</item>
+    </dish>
+    <dish name="Ćevapi">
+        <item>Juneće meso</item>
+        <item>Janjeće meso</item>
+        <item>Sol</item>
+        <item>Papar</item>
+        <item>Češnjak</item>
+        <item>Soda bikarbona</item>
+        <item>Somun</item>
+        <item>Luk</item>
+    </dish>
+    <dish name="Goulash">
+        <item>Govedina</item>
+        <item>Luk</item>
+        <item>Paprika</item>
+        <item>Krumpir</item>
+        <item>Rajčica</item>
+        <item>Češnjak</item>
+        <item>Lovor</item>
+        <item>Sol</item>
+    </dish>
+    <dish name="Paella Valenciana">
+        <item>Riža</item>
+        <item>Maslinovo ulje</item>
+        <item>Piletina</item>
+        <item>Krumpir</item>
+        <item>Šafran</item>
+        <item>Rajčica</item>
+        <item>Grah</item>
+        <item>Sol</item>
+        <item>Ružmarin</item>
+    </dish>
+    <dish name="Souvlaki">
+        <item>Svinjetina</item>
+        <item>Maslinovo ulje</item>
+        <item>Limun</item>
+        <item>Češnjak</item>
+        <item>Tzatziki</item>
+        <item>Lepinja</item>
+        <item>Luk</item>
+    </dish>
+    <dish name="Pierogi">
+        <item>Brašno</item>
+        <item>Jaja</item>
+        <item>Krumpir</item>
+        <item>Svježi sir</item>
+        <item>Luk</item>
+        <item>Kiselo vrhnje</item>
+    </dish>
+    <dish name="Fish and Chips">
+        <item>Bijela riba</item>
+        <item>Brašno</item>
+        <item>Prašak za pecivo</item>
+        <item>Jaja</item>
+        <item>Krumpir</item>
+        <item>Sol</item>
+        <item>Ulje za prženje</item>
+    </dish>
+    <dish name="Risotto alla Milanese">
+        <item>Riža (arborio)</item>
+        <item>Šafran</item>
+        <item>Luk</item>
+        <item>Maslac</item>
+        <item>Parmezan</item>
+        <item>Goveđi temeljac</item>
+        <item>Bijelo vino</item>
+    </dish>
+</ingredients>

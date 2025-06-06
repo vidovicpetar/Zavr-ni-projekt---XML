@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dishes>
+    <dish>
+        <name>Pizza Napoletana</name>
+        <image>images/pizza.jpg</image>
+        <summary>Jednostavna, ali savršena kombinacija sastojaka. Zaštićena UNESCO-m.</summary>
+        <link>pizza.php</link>
+    </dish>
+    <dish>
+        <name>Croissant</name>
+        <image>images/kroasan.webp</image>
+        <summary>Klasik francuskog doručka, nezaobilazan u pekarskoj kulturi.</summary>
+        <link>croissant.php</link>
+    </dish>
+    <dish>
+        <name>Ćevapi</name>
+        <image>images/cevapi.webp</image>
+        <summary>Popularno mesno jelo na Balkanu, često u somunu s lukom.</summary>
+        <link>cevapi.php</link>
+    </dish>
+    <dish>
+        <name>Goulash</name>
+        <image>images/goulash.jpg</image>
+        <summary>Mađarsko nacionalno jelo, aromatični paprikaš od mesa.</summary>
+        <link>goulash.php</link>
+    </dish>
+    <dish>
+        <name>Paella Valenciana</name>
+        <image>images/paella.jpg</image>
+        <summary>Ikoničko jelo Španjolske s rižom, šafranom i morskim plodovima ili piletinom.</summary>
+        <link>paella.php</link>
+    </dish>
+    <dish>
+        <name>Souvlaki</name>
+        <image>images/souvlaki.jpg</image>
+        <summary>Grčko jelo s roštilja, često servirano s tzatzikijem i lepinjom.</summary>
+        <link>souvlaki.php</link>
+    </dish>
+    <dish>
+        <name>Pierogi</name>
+        <image>images/pierogi.jpg</image>
+        <summary>Punjene tijestaste “pogačice” s raznim slanim ili slatkim nadjevima.</summary>
+        <link>pierogi.php</link>
+    </dish>
+    <dish>
+        <name>Fish and Chips</name>
+        <image>images/fishandchips.jpg</image>
+        <summary>Omiljeno britansko jelo koje nikad ne izlazi iz mode.</summary>
+        <link>fishandchips.php</link>
+    </dish>
+    <dish>
+        <name>Risotto alla Milanese</name>
+        <image>images/risotto.webp</image>
+        <summary>Kremasto jelo od riže sa šafranom, iz sjeverne Italije.</summary>
+        <link>risotto.php</link>
+    </dish>
+</dishes>
